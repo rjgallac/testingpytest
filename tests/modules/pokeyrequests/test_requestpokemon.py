@@ -1,4 +1,4 @@
-from  src.modules.pokeyrequests import requestpokemon
+from  modules.pokeyrequests import requestpokemon
 
 
 

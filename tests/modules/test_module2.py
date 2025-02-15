@@ -1,4 +1,4 @@
-from src.modules import module2
+from modules import module2
 
 
 def test_module2_func2():
