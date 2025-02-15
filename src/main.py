@@ -1,9 +1,9 @@
-from modules import module1
+from modules import mainServiceModule
 
 
 
 def main_prog():
-    result = module1.func1("rob")
+    result = mainServiceModule.func1("rob")
     return "success: " + result
 
 if __name__ == "__main__":
